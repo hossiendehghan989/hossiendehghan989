@@ -1,41 +1,43 @@
-# Hi, I'm Hossein Dehghan
+# Hossein Dehghan
 
-**Industrial Engineering Graduate · AI & Data Science · Python · Process Mining**
+**Industrial Engineering Graduate · AI & Data Science · Energy & Industrial Systems**
 
-I build practical software at the intersection of **industrial systems, energy markets, automation, and applied AI**. My work spans data analysis and forecasting, oil & gas intelligence, process-oriented thinking, and reliable Telegram-based automation.
+I build practical, data-driven software at the intersection of **industrial engineering, energy markets, process-oriented thinking, and applied AI**. My work includes time-series analysis, forecasting experiments, operational automation, and full-stack tools for energy-sector workflows.
 
-## Focus Areas
+## What I work on
 
-- **AI & Data Science:** Python, pandas, NumPy, XGBoost, time-series analysis, NLP and sentiment analysis
-- **Energy & Industrial Systems:** oil and gas market intelligence, process modeling, operational analytics and optimization
-- **Automation & Software:** Telegram bots, API integrations, full-stack applications and production deployment
-- **Engineering Mindset:** measurable results, validation, secure configuration and maintainable systems
+- **Data & machine learning:** Python, pandas, NumPy, scikit-learn, XGBoost, LSTM, time-series analysis, and sentiment analysis
+- **Industrial and energy systems:** oil & gas market intelligence, operational analytics, process modeling, and decision support
+- **Software and automation:** TypeScript, React, Node.js, Telegram Bot API, REST integrations, databases, and production-minded workflows
+- **Engineering practice:** reproducible notebooks, validation, secure configuration, testing, and clear technical documentation
 
-## Featured Projects
+## Featured projects
 
-| Project | What it demonstrates |
-|---|---|
-| [PetroMarket](https://github.com/hossiendehghan989/hossien2042) | Full-stack oil products marketplace with React, Express, tRPC and MySQL |
-| [Farhad Petro Bot](https://github.com/hossiendehghan989/telegram-bot) | Oil & gas business-intelligence Telegram bot with market analytics and alerts |
-| [Tesla Stock Analysis](https://github.com/hossiendehghan989/Tesla-Stock-Analysis) | Stock forecasting, technical indicators, XGBoost/LSTM notebooks and sentiment analysis |
-| [DigiGate Bot](https://github.com/hossiendehghan989/DigiGate-Bot) | Automated news and proxy-channel monitoring and publishing |
-| [Telegram Rebrand Bot](https://github.com/hossiendehghan989/telegram-rebrand-bot) | Gemini-powered content rewriting with validation, dry-run safety and structured logs |
+| Project | Focus | Stack |
+|---|---|---|
+| [Tesla Stock Analysis](https://github.com/hossiendehghan989/Tesla-Stock-Analysis) | Technical analysis, forecasting experiments, and sentiment signals for Tesla historical data | Python · Jupyter · XGBoost · LSTM |
+| [PetroMarket](https://github.com/hossiendehghan989/hossien2042) | Full-stack oil-products marketplace and energy-market intelligence platform *(private repository)* | TypeScript · React · Express · tRPC · MySQL |
+| [Farhad Petro Bot](https://github.com/hossiendehghan989/telegram-bot) | Oil & gas business intelligence, analytics, and Telegram alerts *(private repository)* | Python · Telegram Bot API |
+| [Telegram Rebrand Bot](https://github.com/hossiendehghan989/telegram-rebrand-bot) | AI-assisted content rewriting and controlled publishing workflow *(private repository)* | TypeScript · Gemini API · Telegram · MySQL |
 
-## Engineering Principles
+## Engineering principles
 
-- Keep secrets out of source control and validate configuration at startup.
+- Turn operational data into clear, useful decisions.
 - Prefer safe, testable automation over opaque one-off scripts.
-- Turn complex operational data into clear decisions and useful interfaces.
-- Document how to run, validate and deploy every serious project.
+- Keep secrets and production configuration outside source control.
+- Document assumptions, setup, validation, and limitations.
 
-## Currently Building
+## Current direction
 
-A stronger portfolio around **industrial engineering, oil & gas analytics, process mining and applied machine learning**.
+I am developing a portfolio focused on **industrial engineering, process mining, oil & gas analytics, and applied machine learning**—with an emphasis on projects that connect technical implementation to measurable operational value.
 
----
+## Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-hossiendehghan989-181717?logo=github)](https://github.com/hossiendehghan989)
-[![Python](https://img.shields.io/badge/Python-Applied%20Analytics-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Telegram](https://img.shields.io/badge/Automation-Telegram-26A5E4?logo=telegram&logoColor=white)](https://telegram.org/)
+- GitHub: [@hossiendehghan989](https://github.com/hossiendehghan989)
 
-*Open to thoughtful collaborations in AI, data, industrial systems and energy technology.*
+> Selected private projects can be discussed or demonstrated on request when their data and deployment constraints allow it.
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Applied-6C63FF)
+![Energy Analytics](https://img.shields.io/badge/Energy%20Analytics-Industrial-1F6FEB)
