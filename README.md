@@ -1,43 +1,52 @@
 # Hossein Dehghan
+### Industrial Engineering Graduate · Applied AI · Energy Intelligence
 
-**Industrial Engineering Graduate · AI & Data Science · Energy & Industrial Systems**
+> Building data-driven products that turn complex industrial and market signals into clear, actionable decisions.
 
-I build practical, data-driven software at the intersection of **industrial engineering, energy markets, process-oriented thinking, and applied AI**. My work includes time-series analysis, forecasting experiments, operational automation, and full-stack tools for energy-sector workflows.
+I work at the intersection of **industrial engineering**, **machine learning**, and **energy systems**. My projects combine rigorous analysis with pragmatic software engineering—from time-series forecasting and operational analytics to automation tools and decision-support products.
 
-## What I work on
+## Focus Areas
 
-- **Data & machine learning:** Python, pandas, NumPy, scikit-learn, XGBoost, LSTM, time-series analysis, and sentiment analysis
-- **Industrial and energy systems:** oil & gas market intelligence, operational analytics, process modeling, and decision support
-- **Software and automation:** TypeScript, React, Node.js, Telegram Bot API, REST integrations, databases, and production-minded workflows
-- **Engineering practice:** reproducible notebooks, validation, secure configuration, testing, and clear technical documentation
+| Area | What I Build |
+|---|---|
+| **Applied AI & Data Science** | Forecasting, machine learning experiments, sentiment signals, and reproducible analytical workflows |
+| **Industrial & Energy Systems** | Energy-market intelligence, operational analytics, process-oriented decision support, and oil & gas tools |
+| **Software & Automation** | Reliable Python and TypeScript applications, API integrations, bots, and production-minded data products |
 
-## Featured projects
+## Featured Project
 
-| Project | Focus | Stack |
-|---|---|---|
-| [Tesla Stock Analysis](https://github.com/hossiendehghan989/Tesla-Stock-Analysis) | Technical analysis, forecasting experiments, and sentiment signals for Tesla historical data | Python · Jupyter · XGBoost · LSTM |
-| [PetroMarket](https://github.com/hossiendehghan989/hossien2042) | Full-stack oil-products marketplace and energy-market intelligence platform *(private repository)* | TypeScript · React · Express · tRPC · MySQL |
-| [Farhad Petro Bot](https://github.com/hossiendehghan989/telegram-bot) | Oil & gas business intelligence, analytics, and Telegram alerts *(private repository)* | Python · Telegram Bot API |
-| [Telegram Rebrand Bot](https://github.com/hossiendehghan989/telegram-rebrand-bot) | AI-assisted content rewriting and controlled publishing workflow *(private repository)* | TypeScript · Gemini API · Telegram · MySQL |
+### [Tesla Stock Analysis](https://github.com/hossiendehghan989/Tesla-Stock-Analysis)
+**Market analysis and forecasting experiments for Tesla historical data.** The project brings together technical indicators, sentiment signals, and machine-learning approaches—including XGBoost and LSTM—to explore time-series behavior through a transparent, notebook-based workflow.
 
-## Engineering principles
+`Python` · `Jupyter` · `pandas` · `scikit-learn` · `XGBoost` · `LSTM`
 
-- Turn operational data into clear, useful decisions.
-- Prefer safe, testable automation over opaque one-off scripts.
-- Keep secrets and production configuration outside source control.
-- Document assumptions, setup, validation, and limitations.
+## Selected Work
 
-## Current direction
+- **PetroMarket** — A full-stack oil-products marketplace and energy-market intelligence platform.
+- **Farhad Petro Bot** — Oil and gas business intelligence, analytics, and alerting workflows for Telegram.
+- **AI Content Automation** — Controlled rewriting and publishing pipelines using generative AI and messaging APIs.
 
-I am developing a portfolio focused on **industrial engineering, process mining, oil & gas analytics, and applied machine learning**—with an emphasis on projects that connect technical implementation to measurable operational value.
+> Some selected projects are private to protect data, deployment, and commercial constraints. Their technical approach can be discussed where appropriate.
 
-## Connect
+## Engineering Principles
 
-- GitHub: [@hossiendehghan989](https://github.com/hossiendehghan989)
+- **Make data useful.** Translate complex inputs into decisions people can understand and act on.
+- **Build for reliability.** Prefer testable, secure, and maintainable automation over opaque one-off scripts.
+- **Keep work reproducible.** Document assumptions, validation methods, configuration, and limitations.
+- **Connect analysis to operations.** Measure value by practical outcomes, not model complexity alone.
 
-> Selected private projects can be discussed or demonstrated on request when their data and deployment constraints allow it.
+## Current Direction
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Applied-6C63FF)
-![Energy Analytics](https://img.shields.io/badge/Energy%20Analytics-Industrial-1F6FEB)
+Developing a portfolio of **applied AI and data products for industrial and energy contexts**, with particular interest in process analytics, forecasting, operational intelligence, and intelligent automation.
+
+## Toolkit
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Applied-6C63FF?style=flat-square)
+![Data Science](https://img.shields.io/badge/Data%20Science-0F766E?style=flat-square)
+![Energy Analytics](https://img.shields.io/badge/Energy%20Analytics-1F6FEB?style=flat-square)
+
+---
+
+[GitHub](https://github.com/hossiendehghan989) · **Hossein Dehghan**
