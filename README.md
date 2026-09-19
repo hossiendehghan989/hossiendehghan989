@@ -42,7 +42,7 @@ I work from problem to outcome: understanding the system, preparing trustworthy 
 
 ### [GridWise AI](https://github.com/hossiendehghan989/gridwise-ai)
 
-An end-to-end energy intelligence platform that combines demand forecasting with constrained optimization. It includes walk-forward evaluation, uncertainty intervals, feature ablation, sensitivity analysis, and a tested Streamlit decision dashboard.
+An end-to-end energy intelligence platform that combines multi-horizon demand forecasting with scenario-based robust optimization. It includes uncertainty intervals, walk-forward evaluation, feature ablation, explainability, a FastAPI service, Docker, CI, and a tested Streamlit decision dashboard.
 
 **Result:** 62.0 Wh RMSE · 0.53 R² on a chronological holdout, with a constrained 100 Wh peak reduction scenario.
 
