@@ -40,6 +40,12 @@ I work from problem to outcome: understanding the system, preparing trustworthy 
 
 ## Selected project
 
+### [GridWise AI](https://github.com/hossiendehghan989/gridwise-ai)
+
+An end-to-end energy intelligence platform that combines demand forecasting with constrained optimization. It turns operational data into a practical peak-reduction schedule through a tested Python engine and Streamlit dashboard.
+
+**Result:** 30.5 Wh MAE · 62.8 Wh RMSE · 0.52 R² on a chronological holdout.
+
 ### [Tesla Stock Analysis](https://github.com/hossiendehghan989/Tesla-Stock-Analysis)
 
 A research-oriented study of Tesla historical data combining technical indicators, sentiment signals, **XGBoost**, and **LSTM** experiments.
