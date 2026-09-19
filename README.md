@@ -44,7 +44,7 @@ I work from problem to outcome: understanding the system, preparing trustworthy 
 
 An end-to-end energy intelligence platform that combines demand forecasting with constrained optimization. It turns operational data into a practical peak-reduction schedule through a tested Python engine and Streamlit dashboard.
 
-**Result:** 30.5 Wh MAE · 62.8 Wh RMSE · 0.52 R² on a chronological holdout.
+**Result:** 62.0 Wh RMSE · 0.53 R² on a chronological holdout, with a constrained 100 Wh peak reduction scenario.
 
 ### [Tesla Stock Analysis](https://github.com/hossiendehghan989/Tesla-Stock-Analysis)
 
