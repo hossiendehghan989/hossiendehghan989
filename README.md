@@ -40,6 +40,10 @@ I work from problem to outcome: understanding the system, preparing trustworthy 
 
 ## Selected project
 
+### [AtlasRE Investment Intelligence](https://github.com/hossiendehghan989/atlasre-investment-intelligence)
+
+A transparent real-estate underwriting and market-intelligence platform for investment committees. It models NOI growth, exit capitalization, leverage, IRR, NPV, scenario risk, risk-adjusted market ranking, and capital allocation through a tested Streamlit product.
+
 ### [GridWise AI](https://github.com/hossiendehghan989/gridwise-ai)
 
 An end-to-end energy intelligence platform that combines multi-horizon demand forecasting with scenario-based robust optimization. It includes uncertainty intervals, walk-forward evaluation, feature ablation, explainability, a FastAPI service, Docker, CI, and a tested Streamlit decision dashboard.
