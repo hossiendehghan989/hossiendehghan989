@@ -42,7 +42,7 @@ I work from problem to outcome: understanding the system, preparing trustworthy 
 
 ### [AtlasRE Investment Intelligence](https://github.com/hossiendehghan989/atlasre-investment-intelligence)
 
-A transparent real-estate underwriting and market-intelligence platform for investment committees. It models NOI growth, exit capitalization, leverage, IRR, NPV, development costs, debt, waterfall economics, Monte Carlo downside risk, stress cases, and risk-adjusted market ranking through a tested Streamlit product.
+A transparent real-estate underwriting and market-intelligence platform for investment committees. It models monthly development draws, construction debt, DSCR-constrained financing, LP/GP waterfall economics, IRR, NPV, Monte Carlo downside risk, stress cases, and risk-adjusted market ranking through a tested Streamlit product.
 
 ### [GridWise AI](https://github.com/hossiendehghan989/gridwise-ai)
 
