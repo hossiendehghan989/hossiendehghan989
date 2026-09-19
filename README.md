@@ -2,74 +2,78 @@
 
 # Hossein Dehghan
 
-### Industrial Engineer · Applied AI · Data & Energy Intelligence
+### Industrial Engineer building practical AI for complex systems
+
+**Applied AI · Data Science · Energy Intelligence · Industrial Analytics**
 
 <p>
-  <a href="https://github.com/hossiendehghan989">GitHub</a> ·
-  <a href="https://github.com/hossiendehghan989/Tesla-Stock-Analysis">Featured project</a>
+  <a href="https://github.com/hossiendehghan989"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/hossiendehghan989/Tesla-Stock-Analysis"><img src="https://img.shields.io/badge/Featured%20Project-0B7285?style=flat-square&logo=github&logoColor=white" alt="Featured Project"></a>
 </p>
 
 </div>
 
 ---
 
-## About
+## Who I am
 
-I am an **Industrial Engineering graduate** who builds practical solutions at the intersection of **data science, applied artificial intelligence, energy intelligence, and industrial systems**.
+I am an **Industrial Engineering graduate** focused on building useful technology where **data, artificial intelligence, and real-world operations** meet.
 
-My work focuses on turning complex data and real operational questions into clear analysis, reliable forecasting models, and useful software. I care about the full path from **problem definition to measurable outcome**—not just the model itself.
+I work from problem to outcome: understanding the system, preparing trustworthy data, developing an appropriate model, and turning the result into something people can use. My interests include **energy-market intelligence, forecasting, industrial analytics, and automation**.
 
-## Professional focus
+## What I do
 
-- **Applied AI & analytics** — predictive modeling, time-series forecasting, sentiment analysis, and decision support
-- **Energy & industrial systems** — market intelligence, operational analytics, process improvement, and business insight
-- **Software & automation** — APIs, databases, web tools, and repeatable workflows that make analysis useful
+| Focus | How I contribute |
+| --- | --- |
+| **Applied AI** | Predictive modeling, time-series forecasting, sentiment signals, feature engineering, and decision support. |
+| **Industrial systems** | Operational analytics, process improvement, energy intelligence, market analysis, and measurable insights. |
+| **Software & automation** | APIs, databases, web tools, and repeatable workflows that turn analysis into action. |
 
 ## Technical toolkit
 
-**Languages & data**  
-`Python` · `SQL` · `TypeScript` · `pandas` · `NumPy`
+| Category | Tools and technologies |
+| --- | --- |
+| **Programming & data** | Python · SQL · TypeScript · pandas · NumPy |
+| **Machine learning** | scikit-learn · XGBoost · LSTM · time-series analysis |
+| **Software development** | React · Node.js · REST APIs · databases |
+| **Professional strengths** | Problem structuring · analytical thinking · reproducibility · automation |
 
-**Machine learning**  
-`scikit-learn` · `XGBoost` · `LSTM` · `Time-Series Analysis`
-
-**Software & platforms**  
-`React` · `Node.js` · `REST APIs` · `Databases` · `Automation`
-
-## Selected work
+## Selected project
 
 ### [Tesla Stock Analysis](https://github.com/hossiendehghan989/Tesla-Stock-Analysis)
 
-A research-oriented analysis of Tesla historical data combining technical indicators, sentiment signals, XGBoost, and LSTM experiments.
+A research-oriented study of Tesla historical data combining technical indicators, sentiment signals, **XGBoost**, and **LSTM** experiments.
 
-**Key themes:** financial data analysis · feature engineering · machine learning · forecasting
+**Focus:** financial data analysis · feature engineering · machine learning · forecasting
 
-> Some of my work in energy-market intelligence, oil and gas analytics, and content automation is private because it involves proprietary data or active deployments.
+## Current direction
 
-## What I am exploring
+I am currently exploring:
 
-- Explainable forecasting for industrial and energy applications
+- Explainable forecasting for energy and industrial applications
 - Intelligent decision-support systems
-- Process analytics and practical automation
-- Modern software tools for making data-driven work easier to use
+- Process analytics and operational improvement
+- Practical machine learning with reproducible workflows
+- Software tools that make data-driven decisions easier
 
-## Engineering principles
+## How I build
 
-| Principle | Meaning |
-| --- | --- |
-| **Clarity** | Start with the real problem and make assumptions explicit. |
-| **Reproducibility** | Build work that can be understood, tested, and repeated. |
-| **Practicality** | Connect technical effort to a measurable decision or outcome. |
-| **Sustainability** | Prefer maintainable systems over temporary complexity. |
+> **Understand the system. Make assumptions explicit. Build the simplest useful solution. Measure the result.**
+
+I value clear thinking, honest measurement, maintainable code, and technical work that improves a real process or supports a better decision.
+
+## Notes on my work
+
+Some projects in **energy-market intelligence, oil and gas analytics, and content automation** are private because they involve proprietary data or active deployments. This profile highlights the public side of my work while I continue building in these areas.
 
 <div align="center">
 
 ---
 
-**Build clearly. Measure honestly. Improve continuously.**
+### Build clearly · Measure honestly · Improve continuously
 
 <a href="https://github.com/hossiendehghan989">
-  <img src="https://img.shields.io/badge/Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work">
+<img src="https://img.shields.io/badge/Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work">
 </a>
 
 </div>
