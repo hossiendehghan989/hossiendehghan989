@@ -2,70 +2,74 @@
 
 # Hossein Dehghan
 
-### Industrial Engineer building practical AI for data-driven decisions
+### Industrial Engineer · Applied AI · Data & Energy Intelligence
 
 <p>
-  <a href="https://github.com/hossiendehghan989"><img src="https://img.shields.io/badge/GitHub-hossiendehghan989-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://github.com/hossiendehghan989/Tesla-Stock-Analysis"><img src="https://img.shields.io/badge/Featured%20Project-Tesla%20Stock%20Analysis-0B7285?style=for-the-badge&logo=github" alt="Featured project"></a>
+  <a href="https://github.com/hossiendehghan989">GitHub</a> ·
+  <a href="https://github.com/hossiendehghan989/Tesla-Stock-Analysis">Featured project</a>
 </p>
 
 </div>
 
 ---
 
-## Profile
+## About
 
-I am an **Industrial Engineering graduate** working at the intersection of **applied AI, data science, energy intelligence, and industrial systems**. I turn raw data and operational questions into understandable analysis, forecasting models, and useful automation.
+I am an **Industrial Engineering graduate** who builds practical solutions at the intersection of **data science, applied artificial intelligence, energy intelligence, and industrial systems**.
 
-My goal is simple: build technology that is technically sound, practical to use, and connected to a real decision.
+My work focuses on turning complex data and real operational questions into clear analysis, reliable forecasting models, and useful software. I care about the full path from **problem definition to measurable outcome**—not just the model itself.
 
-## Focus areas
+## Professional focus
 
-| Focus | What I build |
-| --- | --- |
-| **Applied AI & data science** | Predictive models, time-series forecasting, sentiment signals, and analytical workflows |
-| **Energy & industrial analytics** | Market intelligence, operational analysis, decision support, and process improvement |
-| **Software & automation** | APIs, databases, web tools, and reliable automation for repeatable work |
+- **Applied AI & analytics** — predictive modeling, time-series forecasting, sentiment analysis, and decision support
+- **Energy & industrial systems** — market intelligence, operational analytics, process improvement, and business insight
+- **Software & automation** — APIs, databases, web tools, and repeatable workflows that make analysis useful
 
-## Technology
+## Technical toolkit
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logoColor=white" alt="XGBoost">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
-</p>
+**Languages & data**  
+`Python` · `SQL` · `TypeScript` · `pandas` · `NumPy`
 
-## Featured work
+**Machine learning**  
+`scikit-learn` · `XGBoost` · `LSTM` · `Time-Series Analysis`
+
+**Software & platforms**  
+`React` · `Node.js` · `REST APIs` · `Databases` · `Automation`
+
+## Selected work
 
 ### [Tesla Stock Analysis](https://github.com/hossiendehghan989/Tesla-Stock-Analysis)
 
-A research-style analysis of Tesla historical data using technical indicators, sentiment signals, **XGBoost**, and **LSTM** experiments.
+A research-oriented analysis of Tesla historical data combining technical indicators, sentiment signals, XGBoost, and LSTM experiments.
 
-> I also work on private projects in energy-market intelligence, oil and gas analytics, and content automation. Some projects are not public because they use private data or active deployments.
+**Key themes:** financial data analysis · feature engineering · machine learning · forecasting
 
-## Currently exploring
+> Some of my work in energy-market intelligence, oil and gas analytics, and content automation is private because it involves proprietary data or active deployments.
 
-- Forecasting and decision-support systems for industrial and energy applications
-- Process analytics and intelligent automation
-- Practical machine learning with reproducible, explainable workflows
-- Modern APIs and web tools that make analysis easier to use
+## What I am exploring
 
-## Working principles
+- Explainable forecasting for industrial and energy applications
+- Intelligent decision-support systems
+- Process analytics and practical automation
+- Modern software tools for making data-driven work easier to use
 
-**Clear assumptions · Reproducible analysis · Measurable impact · Maintainable software**
+## Engineering principles
+
+| Principle | Meaning |
+| --- | --- |
+| **Clarity** | Start with the real problem and make assumptions explicit. |
+| **Reproducibility** | Build work that can be understood, tested, and repeated. |
+| **Practicality** | Connect technical effort to a measurable decision or outcome. |
+| **Sustainability** | Prefer maintainable systems over temporary complexity. |
 
 <div align="center">
 
 ---
 
-### Thanks for visiting my profile
+**Build clearly. Measure honestly. Improve continuously.**
 
-[![Follow on GitHub](https://img.shields.io/github/followers/hossiendehghan989?label=Follow%20Hossein&style=for-the-badge&logo=github)](https://github.com/hossiendehghan989)
+<a href="https://github.com/hossiendehghan989">
+  <img src="https://img.shields.io/badge/Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work">
+</a>
 
 </div>
