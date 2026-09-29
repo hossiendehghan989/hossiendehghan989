@@ -34,7 +34,9 @@ I build **AI-powered decision systems** for complex, real-world environments. My
 | See the flagship AI system | [GridWise AI — forecasting to constrained scheduling](https://github.com/hossiendehghan989/gridwise-ai) |
 | Inspect transparent investment modeling | [AtlasRE — downside-first screening](https://github.com/hossiendehghan989/atlasre-investment-intelligence) |
 | Review forecasting and sentiment experiments | [Tesla Stock Analysis](https://github.com/hossiendehghan989/Tesla-Stock-Analysis) |
-| Suggest a technical improvement | [Open a GridWise discussion issue](https://github.com/hossiendehghan989/gridwise-ai/issues) |
+| Choose the next GridWise direction | [Answer the research question](https://github.com/hossiendehghan989/gridwise-ai/issues/2) |
+| Contribute an adapter | [See the good-first-issue proposal](https://github.com/hossiendehghan989/gridwise-ai/issues/3) |
+| Review a versioned build | [Read the v0.1.0 release](https://github.com/hossiendehghan989/gridwise-ai/releases/tag/v0.1.0) |
 | Read the publishing strategy | [GitHub Audience Content Kit](./CONTENT_KIT.md) |
 
 ## Featured systems
