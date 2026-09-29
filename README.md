@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/hossiendehghan989"><img src="https://img.shields.io/badge/GitHub-071A2B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/hossiendehghan989/gridwise-ai"><img src="https://img.shields.io/badge/Flagship-GridWise%20AI-0B8F8C?style=for-the-badge&logo=python&logoColor=white" alt="GridWise AI" /></a>
+  <a href="https://github.com/hossiendehghan989/gridwise-ai"><img src="https://img.shields.io/badge/Start%20here-GridWise%20AI-0B8F8C?style=for-the-badge&logo=python&logoColor=white" alt="Start with GridWise AI" /></a>
   <img src="https://img.shields.io/badge/Focus-Applied%20AI-F4B942?style=for-the-badge" alt="Applied AI" />
 </p>
 
@@ -26,6 +26,16 @@ I build **AI-powered decision systems** for complex, real-world environments. My
 | **Frame the system**<br><sub>Decisions · constraints · outcomes</sub> | **Model the uncertainty**<br><sub>Data · forecasts · scenarios</sub> | **Ship the decision**<br><sub>APIs · dashboards · workflows</sub> |
 
 </div>
+
+## Start here
+
+| I want to... | Go to... |
+| --- | --- |
+| See the flagship AI system | [GridWise AI — forecasting to constrained scheduling](https://github.com/hossiendehghan989/gridwise-ai) |
+| Inspect transparent investment modeling | [AtlasRE — downside-first screening](https://github.com/hossiendehghan989/atlasre-investment-intelligence) |
+| Review forecasting and sentiment experiments | [Tesla Stock Analysis](https://github.com/hossiendehghan989/Tesla-Stock-Analysis) |
+| Suggest a technical improvement | [Open a GridWise discussion issue](https://github.com/hossiendehghan989/gridwise-ai/issues) |
+| Read the publishing strategy | [GitHub Audience Content Kit](./CONTENT_KIT.md) |
 
 ## Featured systems
 
@@ -67,7 +77,7 @@ I build **AI-powered decision systems** for complex, real-world environments. My
   <img src="https://img.shields.io/badge/SQL-071A2B?style=flat-square&logo=postgresql&logoColor=9FE7E0" alt="SQL" />
   <img src="https://img.shields.io/badge/scikit--learn-071A2B?style=flat-square&logo=scikit-learn&logoColor=F4B942" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/XGBoost-071A2B?style=flat-square&logo=xgboost&logoColor=9FE7E0" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/FastAPI-071A2B?style=flat-square&logo=fastapi&logoColor=9FE7E0" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/FastAPI-071A2B?style=flat-square&logo=fastapi&logoColor=9FE7D8" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Streamlit-071A2B?style=flat-square&logo=streamlit&logoColor=F4B942" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Docker-071A2B?style=flat-square&logo=docker&logoColor=9FE7E0" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub_Actions-071A2B?style=flat-square&logo=githubactions&logoColor=F4B942" alt="GitHub Actions" />
@@ -99,5 +109,5 @@ I value clear problem framing, trustworthy data, honest evaluation, and maintain
 <br>
 
 <p align="center">
-  <a href="https://github.com/hossiendehghan989?tab=repositories"><strong>Explore the work →</strong></a>
+  <a href="https://github.com/hossiendehghan989?tab=repositories"><strong>Explore all repositories →</strong></a>
 </p>
