@@ -1,0 +1,51 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Hossein Dehghan — AI decision systems for energy and industrial operations</title>
+  <desc id="desc">A dark navy and teal technical header with an abstract data grid, forecasting line, and amber signal points.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071A2B"/>
+      <stop offset="0.58" stop-color="#0B2B3C"/>
+      <stop offset="1" stop-color="#063C45"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#26D0CE" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#26D0CE" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="line" x1="680" y1="275" x2="1210" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#26D0CE"/>
+      <stop offset=".55" stop-color="#7CE7D8"/>
+      <stop offset="1" stop-color="#F4B942"/>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" stroke="#9FE7E0" stroke-opacity=".09"/>
+    </pattern>
+    <filter id="blur" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="32"/>
+    </filter>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#020B13" flood-opacity=".45"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="1040" cy="95" r="200" fill="url(#glow)" filter="url(#blur)"/>
+  <rect x="26" y="26" width="1228" height="308" rx="20" fill="url(#grid)"/>
+  <path d="M0 292C135 255 176 318 300 274C420 231 467 270 576 229C682 188 727 236 825 189C925 141 1010 171 1086 124C1163 77 1216 93 1280 62" stroke="#26D0CE" stroke-opacity=".1" stroke-width="2"/>
+  <path d="M0 308C135 271 176 334 300 290C420 247 467 286 576 245C682 204 727 252 825 205C925 157 1010 187 1086 140C1163 93 1216 109 1280 78" stroke="#F4B942" stroke-opacity=".08" stroke-width="1"/>
+  <g filter="url(#shadow)">
+    <rect x="74" y="78" width="8" height="164" rx="4" fill="#F4B942"/>
+    <text x="108" y="126" fill="#F4B942" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="4">HOSSEIN DEHGHAN</text>
+    <text x="108" y="181" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">AI decision systems</text>
+    <text x="108" y="226" fill="#9FE7E0" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="500">for energy &amp; industrial operations</text>
+    <text x="108" y="274" fill="#C5D6DD" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1">ENGINEERING  ·  DATA  ·  INTELLIGENCE  ·  ACTION</text>
+  </g>
+  <g opacity=".9">
+    <path d="M710 279L770 239L823 252L880 183L932 215L990 148L1047 164L1104 109L1160 130L1210 77" stroke="url(#line)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M710 279L770 239L823 252L880 183L932 215L990 148L1047 164L1104 109L1160 130L1210 77V305H710V279Z" fill="url(#glow)" fill-opacity=".16"/>
+    <circle cx="880" cy="183" r="6" fill="#F4B942" stroke="#071A2B" stroke-width="4"/>
+    <circle cx="990" cy="148" r="6" fill="#F4B942" stroke="#071A2B" stroke-width="4"/>
+    <circle cx="1210" cy="77" r="6" fill="#F4B942" stroke="#071A2B" stroke-width="4"/>
+    <path d="M710 305H1210" stroke="#B7E7E2" stroke-opacity=".25"/>
+    <path d="M710 305V77" stroke="#B7E7E2" stroke-opacity=".25"/>
+    <text x="724" y="326" fill="#9FE7E0" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">FORECAST → OPTIMIZE → DECIDE</text>
+  </g>
+</svg>
