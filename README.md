@@ -1,89 +1,51 @@
-<div align="center">
+<h1 align="center">Hossein Dehghan</h1>
 
-# Hossein Dehghan
-
-### Industrial Engineer building practical AI for complex systems
-
-**Applied AI · Data Science · Energy Intelligence · Industrial Analytics**
-
-<p>
-  <a href="https://github.com/hossiendehghan989"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://github.com/hossiendehghan989/Tesla-Stock-Analysis"><img src="https://img.shields.io/badge/Featured%20Project-0B7285?style=flat-square&logo=github&logoColor=white" alt="Featured Project"></a>
+<p align="center">
+  <strong>Industrial Engineering graduate building AI decision systems for energy and industrial operations</strong>
 </p>
 
-</div>
+<p align="center">
+  Applied AI &nbsp;·&nbsp; Time-Series Forecasting &nbsp;·&nbsp; Optimization &nbsp;·&nbsp; Decision Support
+</p>
+
+I work at the intersection of **industrial systems, data, and artificial intelligence**. My focus is turning operational and market data into clear, auditable tools that help people make better decisions—especially in **energy, industrial operations, and investment analysis**.
+
+## Selected work
+
+| Project | Problem and contribution | Evidence |
+| --- | --- | --- |
+| [**GridWise AI**](https://github.com/hossiendehghan989/gridwise-ai) | An energy-intelligence system that turns multi-horizon demand forecasts into scenario-based, constrained operating schedules. | Chronological evaluation, uncertainty intervals, explainability, FastAPI, Docker, CI, and a Streamlit decision dashboard. Reported holdout: **62.0 Wh RMSE** and **0.53 R²**, with a 100 Wh peak-reduction scenario. |
+| [**AtlasRE Investment Intelligence**](https://github.com/hossiendehghan989/atlasre-investment-intelligence) | A transparent screening platform for real-estate investment decisions. | Monthly cash-flow modeling, debt constraints, LP/GP waterfall economics, IRR/NPV, Monte Carlo downside analysis, stress testing, and a Streamlit interface. |
+| [**Tesla Stock Analysis**](https://github.com/hossiendehghan989/Tesla-Stock-Analysis) | A reproducible research project exploring historical Tesla-market behavior. | Technical indicators, sentiment signals, feature engineering, and XGBoost/LSTM forecasting experiments in Python notebooks. |
+
+## How I approach problems
+
+1. **Understand the system** — define the decision, constraints, stakeholders, and success criteria.
+2. **Build a trustworthy data foundation** — make assumptions, data quality, and limitations explicit.
+3. **Use the simplest model that can answer the question** — then evaluate it honestly.
+4. **Turn analysis into action** — deliver a reproducible workflow, service, or interface that people can use.
+
+> **Working principle:** Clear problem framing, honest measurement, and maintainable implementation matter as much as model choice.
+
+## Technical foundation
+
+| Area | Tools and capabilities |
+| --- | --- |
+| **Data & programming** | Python, SQL, pandas, NumPy, Jupyter Notebook |
+| **Machine learning** | scikit-learn, XGBoost, LSTM, feature engineering, time-series analysis |
+| **Decision systems** | Forecasting, constrained optimization, scenario analysis, Monte Carlo simulation, explainability |
+| **Software delivery** | FastAPI, Streamlit, REST APIs, Docker, GitHub Actions, React, Node.js |
+
+## Current focus
+
+- Explainable forecasting and optimization for energy and industrial applications
+- Decision-support products that make complex analysis usable
+- Process analytics, operational improvement, and reproducible AI workflows
+
+I am particularly interested in projects where **engineering context and data-driven methods** combine to improve a real operational or investment decision.
 
 ---
 
-## Who I am
-
-I am an **Industrial Engineering graduate** focused on building useful technology where **data, artificial intelligence, and real-world operations** meet.
-
-I work from problem to outcome: understanding the system, preparing trustworthy data, developing an appropriate model, and turning the result into something people can use. My interests include **energy-market intelligence, forecasting, industrial analytics, and automation**.
-
-## What I do
-
-| Focus | How I contribute |
-| --- | --- |
-| **Applied AI** | Predictive modeling, time-series forecasting, sentiment signals, feature engineering, and decision support. |
-| **Industrial systems** | Operational analytics, process improvement, energy intelligence, market analysis, and measurable insights. |
-| **Software & automation** | APIs, databases, web tools, and repeatable workflows that turn analysis into action. |
-
-## Technical toolkit
-
-| Category | Tools and technologies |
-| --- | --- |
-| **Programming & data** | Python · SQL · TypeScript · pandas · NumPy |
-| **Machine learning** | scikit-learn · XGBoost · LSTM · time-series analysis |
-| **Software development** | React · Node.js · REST APIs · databases |
-| **Professional strengths** | Problem structuring · analytical thinking · reproducibility · automation |
-
-## Selected project
-
-### [AtlasRE Investment Intelligence](https://github.com/hossiendehghan989/atlasre-investment-intelligence)
-
-A transparent real-estate underwriting and market-intelligence platform for investment committees. It models monthly development draws, construction debt, DSCR-constrained financing, LP/GP waterfall economics, IRR, NPV, Monte Carlo downside risk, stress cases, and risk-adjusted market ranking through a tested Streamlit product.
-
-### [GridWise AI](https://github.com/hossiendehghan989/gridwise-ai)
-
-An end-to-end energy intelligence platform that combines multi-horizon demand forecasting with scenario-based robust optimization. It includes uncertainty intervals, walk-forward evaluation, feature ablation, explainability, a FastAPI service, Docker, CI, and a tested Streamlit decision dashboard.
-
-**Result:** 62.0 Wh RMSE · 0.53 R² on a chronological holdout, with a constrained 100 Wh peak reduction scenario.
-
-### [Tesla Stock Analysis](https://github.com/hossiendehghan989/Tesla-Stock-Analysis)
-
-A research-oriented study of Tesla historical data combining technical indicators, sentiment signals, **XGBoost**, and **LSTM** experiments.
-
-**Focus:** financial data analysis · feature engineering · machine learning · forecasting
-
-## Current direction
-
-I am currently exploring:
-
-- Explainable forecasting for energy and industrial applications
-- Intelligent decision-support systems
-- Process analytics and operational improvement
-- Practical machine learning with reproducible workflows
-- Software tools that make data-driven decisions easier
-
-## How I build
-
-> **Understand the system. Make assumptions explicit. Build the simplest useful solution. Measure the result.**
-
-I value clear thinking, honest measurement, maintainable code, and technical work that improves a real process or supports a better decision.
-
-## Notes on my work
-
-Some projects in **energy-market intelligence, oil and gas analytics, and content automation** are private because they involve proprietary data or active deployments. This profile highlights the public side of my work while I continue building in these areas.
-
-<div align="center">
-
----
-
-### Build clearly · Measure honestly · Improve continuously
-
-<a href="https://github.com/hossiendehghan989">
-<img src="https://img.shields.io/badge/Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work">
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/hossiendehghan989"><strong>Explore my repositories</strong></a>
+</p>
