@@ -28,6 +28,8 @@ On a chronological holdout, Gradient Boosting achieved **62.0 Wh RMSE** and **0.
 
 Repository: https://github.com/hossiendehghan989/gridwise-ai
 
+Demo video: https://files.manuscdn.com/user_upload_by_module/session_file/310519663990434475/zqNLMpQwgsMVbxyz.mp4
+
 What would you add first: live tariffs, carbon-intensity feeds, or equipment-level constraints?
 
 ## Post 2 — engineering lesson
