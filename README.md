@@ -72,6 +72,15 @@ I build **AI-powered decision systems** for complex, real-world environments. My
   </tr>
 </table>
 
+## Open-source focus
+
+I am extending this work through focused contributions to **Python, forecasting, scientific computing, energy systems, and practical ML infrastructure**. I prefer changes that are small enough to review and strong enough to keep:
+
+- clear problem framing and explicit assumptions;
+- reproducible tests and honest evaluation;
+- maintainable APIs and documentation;
+- regression coverage for edge cases and failure paths.
+
 ## Technical foundation
 
 <p align="center">
