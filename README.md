@@ -81,6 +81,8 @@ I am extending this work through focused contributions to **Python, forecasting,
 - maintainable APIs and documentation;
 - regression coverage for edge cases and failure paths.
 
+Current contribution: [GPT-OSS AB/CD parser fix](https://github.com/openai/gpt-oss/pull/319), focused on preventing malformed or ambiguous model outputs from becoming guessed evaluation answers.
+
 ## Technical foundation
 
 <p align="center">
