@@ -6,7 +6,7 @@ I work at the intersection of **forecasting, optimization, financial modeling, a
 
 
 <p align="center">
-  <img src="./profile-banner-ai-energy.png" alt="Abstract AI, energy systems, and industrial decision intelligence banner" width="100%" />
+  <img src="./profile-banner-ai-energy.jpg" alt="Abstract AI, energy systems, and industrial decision intelligence banner" width="100%" />
 </p>
 
 ## What I build
@@ -66,7 +66,7 @@ I am extending this work through focused contributions to **Python, forecasting,
 I also contribute detailed, evidence-based reviews of open-source AI tooling, separating confirmed defects from security risks and improvement suggestions. Recent examples include reviews of [shell allowlist enforcement](https://github.com/anthropics/claude-quickstarts/pull/496), [path-sandbox boundaries](https://github.com/anthropics/claude-cookbooks/pull/883), and [loopback-only development authentication](https://github.com/anthropics/financial-services/issues/362).
 
 <p align="center">
-  <img src="./profile-card-decision-systems.png" alt="Conceptual visual of forecasting, optimization, uncertainty, and secure AI decision systems" width="100%" />
+  <img src="./profile-card-decision-systems.jpg" alt="Conceptual visual of forecasting, optimization, uncertainty, and secure AI decision systems" width="100%" />
 </p>
 
 ## Technical foundation
