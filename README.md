@@ -1,57 +1,28 @@
-<p align="center">
-  <img src="./assets/profile-header.svg" alt="Hossein Dehghan — AI decision systems for energy and industrial operations" width="100%" />
-</p>
+# Hossein Dehghan
 
-<p align="center">
-  <a href="https://github.com/hossiendehghan989"><img src="https://img.shields.io/badge/GitHub-071A2B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/hossiendehghan989/gridwise-ai"><img src="https://img.shields.io/badge/Start%20here-GridWise%20AI-0B8F8C?style=for-the-badge&logo=python&logoColor=white" alt="Start with GridWise AI" /></a>
-  <img src="https://img.shields.io/badge/Focus-Applied%20AI-F4B942?style=for-the-badge" alt="Applied AI" />
-</p>
+Industrial Engineer building **practical AI decision systems for energy and industrial operations**.
 
-<p align="center">
-  <strong>Industrial Engineering</strong> &nbsp;·&nbsp;
-  <strong>Forecasting</strong> &nbsp;·&nbsp;
-  <strong>Optimization</strong> &nbsp;·&nbsp;
-  <strong>Decision Support</strong>
-</p>
+I work at the intersection of **forecasting, optimization, financial modeling, and reliable software delivery**—turning messy operational data into transparent, testable decisions.
 
-## The short version
+## What I build
 
-I build **AI-powered decision systems** for complex, real-world environments. My work combines industrial engineering, data science, and software delivery to turn operational and market data into **clear, auditable actions**—with a particular focus on **energy, industrial operations, and investment analysis**.
+- **Energy & industrial intelligence:** forecasting, scenario analysis, constrained optimization, and operational analytics.
+- **Decision-support systems:** explainable assumptions, downside-aware modeling, uncertainty analysis, and auditable outputs.
+- **Applied ML infrastructure:** reproducible Python workflows, evaluation discipline, API delivery, and maintainable data products.
 
-<div align="center">
-
-| 01 | 02 | 03 |
-| :---: | :---: | :---: |
-| **Frame the system**<br><sub>Decisions · constraints · outcomes</sub> | **Model the uncertainty**<br><sub>Data · forecasts · scenarios</sub> | **Ship the decision**<br><sub>APIs · dashboards · workflows</sub> |
-
-</div>
-
-## Start here
-
-| I want to... | Go to... |
-| --- | --- |
-| See the flagship AI system | [GridWise AI — forecasting to constrained scheduling](https://github.com/hossiendehghan989/gridwise-ai) |
-| Inspect transparent investment modeling | [AtlasRE — downside-first screening](https://github.com/hossiendehghan989/atlasre-investment-intelligence) |
-| Review forecasting and sentiment experiments | [Tesla Stock Analysis](https://github.com/hossiendehghan989/Tesla-Stock-Analysis) |
-| Choose the next GridWise direction | [Answer the research question](https://github.com/hossiendehghan989/gridwise-ai/issues/2) |
-| Contribute an adapter | [See the good-first-issue proposal](https://github.com/hossiendehghan989/gridwise-ai/issues/3) |
-| Review a versioned build | [Read the v0.1.0 release](https://github.com/hossiendehghan989/gridwise-ai/releases/tag/v0.1.0) |
-| Read the publishing strategy | [GitHub Audience Content Kit](./CONTENT_KIT.md) |
-
-## Featured systems
+## Selected work
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/hossiendehghan989/gridwise-ai">GridWise AI</a></h3>
-      <p>Energy intelligence that connects multi-horizon demand forecasting to scenario-based, constrained operating schedules.</p>
-      <p><strong>Signal:</strong> 62.0 Wh RMSE · 0.53 R² on a chronological holdout · 100 Wh peak-reduction scenario</p>
-      <p><sub>Python · scikit-learn · SciPy · FastAPI · Docker · Streamlit · CI</sub></p>
+      <p>End-to-end energy decision support: time-series forecasting, constrained optimization, and Streamlit/FastAPI delivery.</p>
+      <p><strong>Signal:</strong> Forecasting · optimization · scenario analysis · operational analytics</p>
+      <p><sub>Python · pandas · scikit-learn · FastAPI · Streamlit</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/hossiendehghan989/atlasre-investment-intelligence">AtlasRE</a></h3>
-      <p>Transparent investment screening for real-estate decisions, designed around downside-first analysis.</p>
+      <p>Transparent real-estate investment screening with downside-first analysis, cash-flow modeling, debt constraints, and Monte Carlo risk.</p>
       <p><strong>Signal:</strong> Cash-flow modeling · debt constraints · LP/GP waterfalls · IRR/NPV · Monte Carlo risk</p>
       <p><sub>Python · Streamlit · Financial modeling · Underwriting</sub></p>
     </td>
@@ -74,14 +45,20 @@ I build **AI-powered decision systems** for complex, real-world environments. My
 
 ## Open-source focus
 
-I am extending this work through focused contributions to **Python, forecasting, scientific computing, energy systems, and practical ML infrastructure**. I prefer changes that are small enough to review and strong enough to keep:
+I am extending this work through focused contributions to **Python, forecasting, scientific computing, energy systems, practical ML infrastructure, and trustworthy AI tooling**. I prefer changes that are small enough to review and strong enough to keep:
 
 - clear problem framing and explicit assumptions;
 - reproducible tests and honest evaluation;
 - maintainable APIs and documentation;
 - regression coverage for edge cases and failure paths.
 
-Current contribution: [GPT-OSS AB/CD parser fix](https://github.com/openai/gpt-oss/pull/319), focused on preventing malformed or ambiguous model outputs from becoming guessed evaluation answers.
+### Selected public contribution
+
+- [GPT-OSS AB/CD parser fix](https://github.com/openai/gpt-oss/pull/319): preventing malformed or ambiguous model outputs from becoming guessed evaluation answers.
+
+### Public technical review
+
+I also contribute detailed, evidence-based reviews of open-source AI tooling, separating confirmed defects from security risks and improvement suggestions. Recent examples include reviews of [shell allowlist enforcement](https://github.com/anthropics/claude-quickstarts/pull/496), [path-sandbox boundaries](https://github.com/anthropics/claude-cookbooks/pull/883), and [loopback-only development authentication](https://github.com/anthropics/financial-services/issues/362).
 
 ## Technical foundation
 
