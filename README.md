@@ -4,6 +4,11 @@ Industrial Engineer building **practical AI decision systems for energy and indu
 
 I work at the intersection of **forecasting, optimization, financial modeling, and reliable software delivery**—turning messy operational data into transparent, testable decisions.
 
+
+<p align="center">
+  <img src="./profile-banner-ai-energy.png" alt="Abstract AI, energy systems, and industrial decision intelligence banner" width="100%" />
+</p>
+
 ## What I build
 
 - **Energy & industrial intelligence:** forecasting, scenario analysis, constrained optimization, and operational analytics.
@@ -59,6 +64,10 @@ I am extending this work through focused contributions to **Python, forecasting,
 ### Public technical review
 
 I also contribute detailed, evidence-based reviews of open-source AI tooling, separating confirmed defects from security risks and improvement suggestions. Recent examples include reviews of [shell allowlist enforcement](https://github.com/anthropics/claude-quickstarts/pull/496), [path-sandbox boundaries](https://github.com/anthropics/claude-cookbooks/pull/883), and [loopback-only development authentication](https://github.com/anthropics/financial-services/issues/362).
+
+<p align="center">
+  <img src="./profile-card-decision-systems.png" alt="Conceptual visual of forecasting, optimization, uncertainty, and secure AI decision systems" width="100%" />
+</p>
 
 ## Technical foundation
 
