@@ -4,6 +4,8 @@ Industrial Engineer building **practical AI decision systems for energy and indu
 
 I work at the intersection of **forecasting, optimization, financial modeling, and reliable software delivery**—turning messy operational data into transparent, testable decisions.
 
+**LinkedIn:** [Connect with me](https://www.linkedin.com/in/hossien-dehghan-524683442/)
+
 
 <p align="center">
   <img src="./profile-banner-ai-energy.jpg" alt="Abstract AI, energy systems, and industrial decision intelligence banner" width="100%" />
@@ -108,7 +110,6 @@ I value clear problem framing, trustworthy data, honest evaluation, and maintain
 ## Work with me
 
 I am open to thoughtful collaboration on applied AI, energy intelligence, forecasting, optimization, and transparent decision-support systems.
-- **Connect on LinkedIn:** [Hossien Dehghan](https://www.linkedin.com/in/hossien-dehghan-524683442/)
 
 - **Start a technical conversation:** [GridWise AI discussions and issues](https://github.com/hossiendehghan989/gridwise-ai/issues)
 - **Review a decision-support system:** [AtlasRE](https://github.com/hossiendehghan989/atlasre-investment-intelligence)
